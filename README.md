@@ -12,4 +12,6 @@ CloudProvider AWS
 - 📫 Comment me contacter: gilles.cedric@gmail.com
 - ⚡ Fun fact: Lancement de la chaine youtube
 
+
+![Profile Views](https://gpvc.arturio.dev/canard64)
 <a href="https://github.com/Canard64/Canard64/actions"><img src="https://github.com/Canard64/Canard64/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
