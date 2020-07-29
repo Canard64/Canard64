@@ -1,7 +1,6 @@
-### Hi there 👋
+### Salut, Je suis Cédric GILLES 👋
 
-<!--
-**Canard64/Canard64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionné par le build et la tech, je travaille depuis plus de 10ans dans le milieu.🖥
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
