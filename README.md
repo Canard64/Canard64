@@ -7,10 +7,10 @@ Tu trouveras plusieurs buid sur du ANGULAR, C#, TypeScript, Javascript, CSS
 CloudProvider AWS
 
 
-- 🔭 Si ca te dis va voir ma chaine https://www.youtube.com/channel/UC-_cckryVDk7UUNSMMgyGrA/ je suis entrain de monter plusieurs tutos un peu de patience
+- 🔭 Si ca te dis va voir ma chaine https://www.youtube.com/channel/UC-_cckryVDk7UUNSMMgyGrA/ , je suis entrain de monter plusieurs tutos
 - 🌱 Je suis entrain de tester plusieurs CICD.
 - 📫 Comment me contacter: gilles.cedric@gmail.com
-- ⚡ Fun fact: Lancement de la chaine youtube
+- ⚡ Fun fact: Lancement de la chaine youtube 
 
 
 ![Profile Views](https://gpvc.arturio.dev/canard64)
